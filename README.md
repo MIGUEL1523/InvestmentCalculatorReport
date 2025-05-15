@@ -1,0 +1,2 @@
+# InvestmentCalculatorReport
+Written Report
